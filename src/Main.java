@@ -6,7 +6,7 @@ public class Main {
         Student student=new Student();
            student.name="Nicole";
            student.rollNumber=56;
-           student.grade='A+';
+           student.grade='A';
            student.displayDetails();
       }
 }
